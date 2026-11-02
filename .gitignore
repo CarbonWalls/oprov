@@ -1,0 +1,5 @@
+# built binary
+/oprov
+
+# local test keys (never commit secrets)
+/keys/
